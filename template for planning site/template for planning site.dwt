@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#apDiv1 {
+	position:absolute;
+	left:17px;
+	top:15px;
+	width:367px;
+	height:74px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:18px;
+	top:107px;
+	width:854px;
+	height:381px;
+	z-index:2;
+}
+#apDiv3 {
+	position:absolute;
+	left:19px;
+	top:502px;
+	width:314px;
+	height:50px;
+	z-index:3;
+}
+#apDiv4 {
+	position:absolute;
+	left:19px;
+	top:564px;
+	width:314px;
+	height:50px;
+	z-index:4;
+}
+#apDiv5 {
+	position:absolute;
+	left:19px;
+	top:631px;
+	width:314px;
+	height:50px;
+	z-index:5;
+}
+#apDiv6 {
+	position:absolute;
+	left:400px;
+	top:14px;
+	width:533px;
+	height:74px;
+	z-index:3;
+}
+</style>
+</head>
+
+<body>
+<div id="apDiv1"><!-- TemplateBeginEditable name="title" -->title<!-- TemplateEndEditable --></div>
+<div id="apDiv2"><!-- TemplateBeginEditable name="information" -->information<!-- TemplateEndEditable --></div>
+<div id="apDiv6">subpages</div>
+</body>
+</html>
