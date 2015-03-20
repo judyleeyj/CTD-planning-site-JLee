@@ -10,3 +10,6 @@ p{
 .div{
 	background-color:Blue;
 }
+ul#menu li {
+  display:inline;
+}
